@@ -17,10 +17,10 @@ Team **AgainIoT** was formed by gathering people who became close at the first s
 ## 🧑🏻‍💻 Member
 
 <br>
->  Department of Software at Kookmin University | **<a href="https://github.com/ymw0407">윤민우</a>** <br>
-  Department of Software at Kookmin University | **<a href="https://github.com/sinji2102">윤신지</a>** <br>
-  Department of Software at Kookmin University | **<a href="https://github.com/jjunh33">이준혁</a>**<br>
-  Department of Software at Kookmin University | **<a href="https://github.com/bentshrimp">박진우</a>**<br>
-  Department of Software at Kookmin University | **<a href="https://github.com/hummingbbird">이채영</a>**<br>
-  Department of Software at Kookmin University | **<a href="https://github.com/Kim-JiYun">김지윤</a>**<br>
-  Department of Software at Kookmin University | **<a href="https://github.com/ancy0">안채영</a>**<br>
+>  Department of Software at Kookmin University | <a href="https://github.com/ymw0407">윤민우</a> <br>
+  Department of Software at Kookmin University | <a href="https://github.com/sinji2102">윤신지</a> <br>
+  Department of Software at Kookmin University | <a href="https://github.com/jjunh33">이준혁</a><br>
+  Department of Software at Kookmin University | <a href="https://github.com/bentshrimp">박진우</a><br>
+  Department of Software at Kookmin University | <a href="https://github.com/hummingbbird">이채영</a><br>
+  Department of Software at Kookmin University | <a href="https://github.com/Kim-JiYun">김지윤</a><br>
+  Department of Software at Kookmin University | <a href="https://github.com/ancy0">안채영</a><br>
