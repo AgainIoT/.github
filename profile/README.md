@@ -8,11 +8,9 @@ Team **AgainIoT** was formed by gathering people who became close at the first s
 <br>
 
 ## Project
-### 모두의 환승
-
 
 ### Open-Set-Go
-
+'Project Starting Toolkit' for OpenSource SW developers who can easily, quickly and conveniently start an Open Source project.
 
 ## 🧑🏻‍💻 Member
 
