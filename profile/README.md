@@ -1,24 +1,18 @@
-# AgainIoT(또이오티)
 
-## Introducing the team
-Hello! We're **Team AgainIoT**!<br>
-Team **AgainIoT** was formed by gathering people who became close at the first semester of 2022 **IoT Introductory Study** held at the OpenSource Software Society (KOSS), an OpenSource Software academic club affiliated with Kookmin University's Software Convergence College, and when I met them in club activities, I found out that "**IoT Study Again!**" and was given the name of AgainIoT. <br><br>
-안녕하세요! 저희는 **팀 또이오티**입니다! <br>
-팀 **또이오티**는 국민대학교 소프트웨어융합대학 소속 OpenSource Software 학술 동아리인 **KOSS(Kookmin Univ. OpenSource Software Society)** 에서 진행되었던 2022년 1학기 **IoT 입문 스터디**에서 친해진 사람들끼리 모여서 구성되었고, 동아리 활동에서 만나고 보니 “**또 아이오티(IoT)!**”해서 또이오티라는 이름이 붙여졌습니다.
-<br>
+<p align="center" width="30%">
+    <img width="20%" src="https://github.com/AgainIoT/Open-Set-Go/blob/main/.github/images/Open-Set-Go.png">
+</p>
 
-## Project
+## <p align="center">Welcome to Open-Set-Go
 
-### Open-Set-Go
-'Project Starting Toolkit' for OpenSource SW developers who can easily, quickly and conveniently start an Open Source project.
+<div align="center">
 
-## 🧑🏻‍💻 Member
+  <a href="https://join.slack.com/t/open-set-go/shared_invite/zt-21jwlzs9g-qrajfUblcCtmCqAy0Xxj8w" target="_blank"><img src="https://img.shields.io/badge/slack-online-brightgreen.svg?logo=slack" alt="Slack"/></a>
+  <a href="https://github.com/AgainIoT/Open-Set-Go"><img src="https://img.shields.io/github/v/release/AgainIoT/Open-Set-Go?logo=github" alt="github release" /></a>
+  <a href="https://github.com/AgainIoT/Open-Set-Go"><img src="https://img.shields.io/github/release-date/AgainIoT/Open-Set-Go?color=blue&logo=github" alt="github last release date" /></a>
+  <a href="https://github.com/AgainIoT/Open-Set-Go"><img src="https://img.shields.io/github/stars/AgainIoT/Open-Set-Go?logo=github" alt="github stars" /></a>
+  <a href="https://www.open-set-go.com"><img src="https://img.shields.io/badge/www-website-blue??style=for-the-badge" alt="open-set-go" /></a>
+  <a href="https://docs.open-set-go.com"><img src="https://img.shields.io/badge/info-docs-blue??style=for-the-badge" alt="documentations" /></a>
+  <a href="https://github.com/AgainIoT/Open-Set-Go/discussions"><img src="https://img.shields.io/badge/forum-discussions-brightgreen??style=for-the-badge" alt="github discussions" /></a>
 
-<br>
-  Department of Software at Kookmin University | <a href="https://github.com/ymw0407">윤민우</a> <br>
-  Department of Software at Kookmin University | <a href="https://github.com/sinji2102">윤신지</a> <br>
-  Department of Software at Kookmin University | <a href="https://github.com/jjunh33">이준혁</a><br>
-  Department of Software at Kookmin University | <a href="https://github.com/bentshrimp">박진우</a><br>
-  Department of Software at Kookmin University | <a href="https://github.com/hummingbbird">이채영</a><br>
-  Department of Software at Kookmin University | <a href="https://github.com/Kim-JiYun">김지윤</a><br>
-  Department of Software at Kookmin University | <a href="https://github.com/ancy0">안채영</a><br>
+</div>
